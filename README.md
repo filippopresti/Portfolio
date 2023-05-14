@@ -1,5 +1,7 @@
 # Portfolio
 Portfolio of three small software projects using Processing:  
-\nProject 1: Generative Vector Abstraction; 
-\nProject 2: Sound Synthesizer; 
-\nProject 3: Forest Scene.
+Project 1: Generative Vector Abstraction; 
+
+Project 2: Sound Synthesizer; 
+
+Project 3: Forest Scene.
