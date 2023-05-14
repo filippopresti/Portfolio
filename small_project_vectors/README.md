@@ -1,6 +1,4 @@
-TITLE: 
-
-Enigma – Abstract Rainbow
+TITLE: Enigma – Abstract Rainbow
 
 DESCRIPTION:
 
