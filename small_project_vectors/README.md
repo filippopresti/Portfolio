@@ -21,5 +21,6 @@ The eye pupil will keep rotating around the internal edges of the eyeball.
 The colour of the components of the background and the background itself can change colour whenever the mouse is clicked (The left click changes the colour of the shapes while the right click alters the background colour);
 
 VISUALS:
+
 ![abstract rainbow](https://github.com/filippopresti/Portfolio/assets/85188811/8a6dfdfa-bad6-4c5a-a756-16426515e8eb)
 
