@@ -15,5 +15,6 @@ The sketch runs using the Processing Sound Library.
 ### VISUALS:
 
 In my personal folder on Panopto, there is a short video explaining the project in details. Click [here](https://ual.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=f3d26c51-12f5-453d-a5ea-b00301130c77&start=0) to play the video.
+
 ![Digital detox synthesizer](https://github.com/filippopresti/Portfolio/assets/85188811/c67918cc-ca94-4a42-a064-b2bbf2db10bd)
 
