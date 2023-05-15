@@ -11,7 +11,7 @@ Below the visual display, there are four toggles which play the corresponding ra
 3) ***Sliders***: 
 Below the toggles section, there are three sliders which control the volume, frequency and panoramic position of the track playing in the background and the eventual noises generated. On top of that, they also control the HSB values of the visual display background colour. The first slider controls the volume of the audio and the hue value of the display background, the second one changes the frequency of the audio and the saturation of the visual display colour while the last slider manipulates the panoramic position of the audio played and the brightness of the display background colour.
 ### ARTWORK STRUCTURE:
-The sketch runs using the Processing Sound Library
+The sketch runs using the Processing Sound Library.
 ### VISUALS:
 ![Digital detox synthesizer](https://github.com/filippopresti/Portfolio/assets/85188811/c67918cc-ca94-4a42-a064-b2bbf2db10bd)
 
