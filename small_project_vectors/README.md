@@ -3,7 +3,7 @@ Enigma – Abstract Rainbow
 
 ### DESCRIPTION:
 
-For the Generative Vector Abstraction Project, I decided to recreate an artwork by Xolo Artist displayed on the Saatchi Art website (https://www.saatchiart.com/xolox). While searching on the net about the artist, I did not manage to discover much about his works; Instead, I found another artist who has the same stage name, [Xolo Cantillo](https://www.saatchiart.com/xolocantillo) and creates similar artworks but using wood pieces . That's why I titled the artwork "Enigma – Abstract Rainbow".
+For the Generative Vector Abstraction Project, I decided to recreate an artwork by [Xolo Artist](https://www.saatchiart.com/xolox) displayed on the Saatchi Art website. While searching on the net about the artist, I did not manage to discover much about his works; Instead, I found another artist who has the same stage name, [Xolo Cantillo](https://www.saatchiart.com/xolocantillo) and creates similar artworks but using wood pieces. That's why I titled the artwork "Enigma – Abstract Rainbow".
 
 ### ARTWORK STRUCTURE:
 1) Background: 
