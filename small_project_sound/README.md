@@ -15,4 +15,4 @@ text.
 
 ### VISUALS:
 
-![abstract rainbow](https://github.com/filippopresti/Portfolio/assets/85188811/8a6dfdfa-bad6-4c5a-a756-16426515e8eb)
+![abstract rainbow]()
