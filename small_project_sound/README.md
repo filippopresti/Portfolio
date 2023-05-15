@@ -10,7 +10,7 @@ On top of the screen, there is a visual display where the rain will start fallin
 Below the visual display, there are four toggles which play the corresponding rain noise and display rain effects when activated. The main toggle allows adding rain sounds and effects when turned on. The first toggle generates light sound and rain visual effects via Pink Noise Generator, the second one recreates normal rain sound and effects through White Noise Generator while the last toggle replicates heavy rain sound and visuals using Brown Noise Generator.
 3) ***Sliders***: 
 Below the toggles section, there are three sliders which control the volume, frequency and panoramic position of the track playing in the background and the eventual noises generated. On top of that, they also control the HSB values of the visual display background colour. The first slider controls the volume of the audio and the hue value of the display background, the second one changes the frequency of the audio and the saturation of the visual display colour while the last slider manipulates the panoramic position of the audio played and the brightness of the display background colour.
-### ARTWORK STRUCTURE:
+### APPLICATIONS:
 The sketch runs using the Processing Sound Library.
 ### VISUALS:
 ![Digital detox synthesizer](https://github.com/filippopresti/Portfolio/assets/85188811/c67918cc-ca94-4a42-a064-b2bbf2db10bd)
